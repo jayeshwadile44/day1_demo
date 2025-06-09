@@ -2,4 +2,6 @@
 
 this is my test git repo
 
-cheers to new repo
+cheers to new repo 
+
+its new commit
